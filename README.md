@@ -6,7 +6,7 @@ Getting Started
 To get started with the Digital Dreams landing page, follow these steps:
 Clone the repository:
 bash
-git clone https://github.com/your-username/digitaldreams.git
+git clone https://github.com/samritbasnet/digitaldreams-.git
 
 Install the dependencies:
 bash
